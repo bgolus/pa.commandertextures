@@ -2,7 +2,7 @@
     "context" : "client",
     "identifier" : "com.pa.uber.client.commandertextures2048.all",
     "display_name" : "High Resolution Commanders Pack",
-    "description" : "Increases the resolution of all commander textures to 2048x2048. WARNING: Not recommended for systems with less than 2GB of VRAM. Large download size.",
+    "description" : "Increases the resolution of all commander textures to 2048x2048. WARNING: May cause performance issues, use at own risk! Not recommended for systems with less than 2GB of VRAM. Large download size.",
     "author" : "Uber Entertainment",
     "version" : "1.0",
     "signature" : "not yet implemented",
